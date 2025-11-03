@@ -1,0 +1,8 @@
+.container { max-width:650px; margin:30px auto; padding:24px; background:#fff; border-radius:8px; }
+.title { color:#1976d2; margin-bottom:12px; }
+.form { display:flex; flex-direction:column; gap:8px; }
+.form input { padding:8px; border:1px solid #ddd; border-radius:6px; }
+.actions { display:flex; gap:8px; justify-content:flex-end; margin-top:10px; }
+.actions button { padding:8px 12px; border-radius:6px; border:none; cursor:pointer; }
+.actions button:first-child { background:#eee; color:#333; }
+.actions button:last-child { background:#1976d2; color:white; }
